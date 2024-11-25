@@ -1,4 +1,4 @@
-# React DevTools Basic Demo
+# React DevTools Demo
 
 Uses TypeScript + React (obviously) + Vite
 
